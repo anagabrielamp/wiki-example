@@ -1,0 +1,28 @@
+#container {
+    height: 1000px;
+    width: 1000px;
+}
+
+#header {
+    height: 100px;
+    width: 1000px;
+    background-color: white;
+    font-family: 'Domine', serif;
+}
+
+#sidebar {
+    float: left;
+    height: 1000px;
+    width: 200px;
+    background-color:rgb(202, 201, 201);
+    font-family: sans-serif;
+}
+
+#content {
+    float: right;
+    height: 900px;
+    width: 800px;
+    background-color: white;
+    font-family: sans-serif;
+}
+
